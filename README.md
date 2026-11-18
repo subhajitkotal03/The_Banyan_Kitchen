@@ -445,10 +445,6 @@ You should see output similar to:
  * Debug mode: on
 ```
 
-### 4. Open in Your Browser
-Open your favorite web browser and visit:
-[http://127.0.0.1:5000](http://127.0.0.1:5000)
-
 ---
 
 ## 🔑 Demo Login Credentials
