@@ -1,0 +1,333 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Truffle Alfredo Pasta",
+      "category": "Main Course",
+      "price": 520,
+      "quantity": 4,
+      "image": "/static/assets/images/pasta.jpg",
+      "description": "Creamy pasta with herbs"
+    },
+    {
+      "id": 2,
+      "name": "Classic Margherita Pizza",
+      "category": "Pizza",
+      "price": 480,
+      "quantity": 5,
+      "image": "/static/assets/images/pizza.jpg",
+      "description": "Tomato, basil and mozzarella"
+    },
+    {
+      "id": 3,
+      "name": "Grilled Tenderloin Steak",
+      "category": "Main Course",
+      "price": 990,
+      "quantity": 7,
+      "image": "/static/assets/images/steak.jpg",
+      "description": "Grilled and full of flavour"
+    },
+    {
+      "id": 4,
+      "name": "BBQ Chicken Burger",
+      "category": "Burgers",
+      "price": 460,
+      "quantity": 14,
+      "image": "/static/assets/images/burger.jpg",
+      "description": "Juicy burger with house sauce"
+    },
+    {
+      "id": 5,
+      "name": "Garden Fresh Salad",
+      "category": "Starters",
+      "price": 320,
+      "quantity": 20,
+      "image": "/static/assets/images/salad.jpg",
+      "description": "Fresh greens and seasonal vegetables"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Lava Cake",
+      "category": "Desserts",
+      "price": 350,
+      "quantity": 9,
+      "image": "/static/assets/images/dessert.jpg",
+      "description": "Warm chocolate dessert"
+    },
+    {
+      "id": 7,
+      "name": "Fresh Lime Soda",
+      "category": "Drinks",
+      "price": 120,
+      "quantity": 25,
+      "image": "/static/assets/images/lime-soda.jpg",
+      "description": "Refreshing lime drink"
+    },
+    {
+      "id": 8,
+      "name": "Crispy Veg Bites",
+      "category": "Starters",
+      "price": 260,
+      "quantity": 18,
+      "image": "/static/assets/images/veg-bites.jpg",
+      "description": "Crispy bites with dip"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1794839718804,
+      "customer": "customer@banyan.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 2,
+          "name": "Classic Margherita Pizza",
+          "category": "Pizza",
+          "price": 480,
+          "quantity": 1,
+          "image": "/static/assets/images/pizza.jpg",
+          "description": "Tomato, basil and mozzarella"
+        }
+      ],
+      "total": 1040,
+      "status": "Received",
+      "date": "16 Nov 2026, 08:05 PM"
+    },
+    {
+      "id": 1794840049154,
+      "customer": "customer@banyan.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 2,
+          "name": "Classic Margherita Pizza",
+          "category": "Pizza",
+          "price": 480,
+          "quantity": 1,
+          "image": "/static/assets/images/pizza.jpg",
+          "description": "Tomato, basil and mozzarella"
+        }
+      ],
+      "total": 1040,
+      "status": "Received",
+      "date": "16 Nov 2026, 08:10 PM"
+    },
+    {
+      "id": 1794841772664,
+      "customer": "subha@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 2,
+          "name": "Classic Margherita Pizza",
+          "category": "Pizza",
+          "price": 480,
+          "quantity": 1,
+          "image": "/static/assets/images/pizza.jpg",
+          "description": "Tomato, basil and mozzarella"
+        }
+      ],
+      "total": 1040,
+      "status": "Completed",
+      "date": "16 Nov 2026, 08:39 PM"
+    },
+    {
+      "id": 1794971508461,
+      "customer": "customer@banyan.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        }
+      ],
+      "total": 560,
+      "status": "Received",
+      "date": "18 Nov 2026, 08:41 AM"
+    },
+    {
+      "id": 1794971599311,
+      "customer": "customer@banyan.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        }
+      ],
+      "total": 560,
+      "status": "Received",
+      "date": "18 Nov 2026, 08:43 AM"
+    },
+    {
+      "id": 1794972610476,
+      "customer": "customer@banyan.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 2,
+          "name": "Classic Margherita Pizza",
+          "category": "Pizza",
+          "price": 480,
+          "quantity": 1,
+          "image": "/static/assets/images/pizza.jpg",
+          "description": "Tomato, basil and mozzarella"
+        }
+      ],
+      "total": 1040,
+      "status": "Received",
+      "date": "18 Nov 2026, 09:00 AM"
+    },
+    {
+      "id": 1794972965746,
+      "customer": "subha@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 4,
+          "name": "BBQ Chicken Burger",
+          "category": "Burgers",
+          "price": 460,
+          "quantity": 1,
+          "image": "/static/assets/images/burger.jpg",
+          "description": "Juicy burger with house sauce"
+        }
+      ],
+      "total": 1020,
+      "status": "Received",
+      "date": "18 Nov 2026, 09:06 AM"
+    },
+    {
+      "id": 1794979061600,
+      "customer": "subha@gmail.com",
+      "items": [
+        {
+          "id": 1,
+          "name": "Truffle Alfredo Pasta",
+          "category": "Main Course",
+          "price": 520,
+          "quantity": 1,
+          "image": "/static/assets/images/pasta.jpg",
+          "description": "Creamy pasta with herbs"
+        },
+        {
+          "id": 2,
+          "name": "Classic Margherita Pizza",
+          "category": "Pizza",
+          "price": 480,
+          "quantity": 1,
+          "image": "/static/assets/images/pizza.jpg",
+          "description": "Tomato, basil and mozzarella"
+        }
+      ],
+      "total": 1040,
+      "status": "Received",
+      "date": "18 Nov 2026, 10:47 AM"
+    },
+    {
+      "id": 1794979101649,
+      "customer": "subha1@gmail.com",
+      "items": [
+        {
+          "id": 3,
+          "name": "Grilled Tenderloin Steak",
+          "category": "Main Course",
+          "price": 990,
+          "quantity": 1,
+          "image": "/static/assets/images/steak.jpg",
+          "description": "Grilled and full of flavour"
+        }
+      ],
+      "total": 1030,
+      "status": "Received",
+      "date": "18 Nov 2026, 10:48 AM"
+    }
+  ],
+  "carts": {
+    "413f91ae-c8d4-442c-a84c-551997eaa0e2": {},
+    "f2955b7f-c4ab-47af-b5e3-6f8f9dd62e1c": {
+      "1": 1
+    },
+    "ac20edba-03a2-47a5-a82e-2cbddae422f7": {},
+    "e0423130-33ef-4ecf-8222-d1ab35a9e177": {},
+    "8b438dee-5e35-48a6-9e82-5b1e3b456c2c": {
+      "1": 1
+    },
+    "c4b52499-8ed3-4640-afd3-c14f31a9c747": {},
+    "f7cad0a6-72eb-4539-9c1e-055d1fe3f450": {}
+  },
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@banyan.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "name": "Customer",
+      "email": "customer@banyan.com",
+      "password": "1234",
+      "role": "customer"
+    },
+    {
+      "name": "SS",
+      "email": "subha@gmail.com",
+      "password": "12345",
+      "role": "customer"
+    },
+    {
+      "name": "subhajit",
+      "email": "subha1@gmail.com",
+      "password": "123456",
+      "role": "customer"
+    }
+  ]
+}
